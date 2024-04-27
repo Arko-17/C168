@@ -1,0 +1,11 @@
+Model Information:
+* title:	Pizza [FREE]
+* source:	https://sketchfab.com/3d-models/pizza-free-bddfff9e1a024d1d9a3775305ec78c5c
+* author:	VX-Designs (https://sketchfab.com/vxdesigns)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Pizza [FREE]" (https://sketchfab.com/3d-models/pizza-free-bddfff9e1a024d1d9a3775305ec78c5c) by VX-Designs (https://sketchfab.com/vxdesigns) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
